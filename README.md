@@ -1,4 +1,4 @@
-Assignment 3
+Assignment 3 - Viia Mäntymäki
 
 1. Create multiple databases (at least three) that have some dummy data within them (at least four tables with five data entities in each minimum).  
 Any database type is allowed (PostgreSQL, SQLite, MongoDB, SQL Server, etc.)  
