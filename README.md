@@ -12,3 +12,6 @@ Before running this project, go to index.js file and put your own pgAdmin 4 info
 
 To run this go terminal and write 'node index.js'  
 Then open http://localhost:5000/ Chrome, FireFox...
+
+Demovideo: https://lut-my.sharepoint.com/:v:/g/personal/viia_mantymaki_student_lut_fi/ES69qhSa4Q1GlPRGlOC1ahcB_JOCAxTtKFltuHHwD6NsVw?e=NwxffP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
